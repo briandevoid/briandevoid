@@ -13,21 +13,19 @@ Currently exploring React, TypeScript, and modern frontend stacks.
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-</p>
+- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg =20x20) **JavaScript**
+- ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg =20x20) **TypeScript**
+- ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg =20x20) **React**
+- ![Next.js](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg =20x20) **Next.js**
+- ![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg =20x20) **Tailwind CSS**
+- ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg =20x20) **Bootstrap**
+- ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg =20x20) **MySQL**
+- ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg =20x20) **PHP**
+- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg =20x20) **Python**
+- ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg =20x20) **Java**
+- ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg =20x20) **Git**
+- ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg =20x20) **Postman**
+- ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg =20x20) **Figma**
 
 ---
 
@@ -45,22 +43,8 @@ Currently exploring React, TypeScript, and modern frontend stacks.
 
 ### 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://www.instagram.com/febrians_p" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/pepep-febriansyah" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/febrians_p" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
+- ![Instagram](https://img.icons8.com/ios-glyphs/30/instagram-new.png) [**Instagram**](https://www.instagram.com/febrians_p)
+- ![LinkedIn](https://img.icons8.com/ios-filled/30/linkedin.png) [**LinkedIn**](https://www.linkedin.com/in/pepep-febriansyah)
+- ![Twitter/X](https://img.icons8.com/ios-filled/30/twitterx--v2.png) [**Twitter**](https://twitter.com/febrians_p)
 
 ---
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=briandevoid&theme=flat&margin-w=10&row=1" />
-</p>
